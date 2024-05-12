@@ -4,4 +4,5 @@ Resume dataset resources:
 3. resume_dataset: multiple industry resume data in table (Parquet), with job category (e.g. information technology, aviation) from https://huggingface.co/datasets/pallavi176/resume_dataset?row=0
 
 JD dataset resources:
+
 nyc-jobs.csv: public multiple industry NYC jobs dataset in table, with job category from https://data.world/city-of-ny/kpav-sd4t
