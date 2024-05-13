@@ -5,4 +5,5 @@ Resume dataset resources:
 
 JD dataset resources:
 
-nyc-jobs.csv: public multiple industry NYC jobs dataset in table, with job category from https://data.world/city-of-ny/kpav-sd4t
+1. nyc-jobs.csv: public multiple industry NYC jobs dataset in table, with job category from https://data.world/city-of-ny/kpav-sd4t
+2. DataScientist.csv: tech industry jobs dataset in table
