@@ -1,6 +1,6 @@
 Tasks:
 1. Provide a score in matching 1 JD with 1 resume, higher score means a better fit
-2. 
+2. Select the top 5 most fit candidates based on one specific job description
 
 Resume dataset resources:
 1. cv_dataset: Full Tech industry resume documents, with current job titles from https://www.kaggle.com/datasets/palaksood97/resume-dataset/data
