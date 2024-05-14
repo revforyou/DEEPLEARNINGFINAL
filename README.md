@@ -16,8 +16,6 @@ spacy (for advanced text processing)
 Installation:
 Install the required Python libraries using pip:
 
-bash
-Copy code
 pip install gensim nltk pandas numpy spacy
 python -m spacy download en_core_web_sm
 Data:
@@ -33,7 +31,7 @@ Calculate cosine similarity to determine the match.
 Save and evaluate the model performance.
 
 
-Running the Code:
+**Running the Code:**
 Run the Python script from the command line or an IDE:
 Copy code
 python cv_job_matching.py
@@ -53,11 +51,11 @@ Load and preprocess the datasets.
 Train a Doc2Vec model to convert text data to vectors.
 Train a deep learning model using the vectors as features.
 Evaluate the model using standard classification metrics.
-Running the Code:
+
+**Running the Code:**
+
 Execute the script via the command line or an IDE:
 
-bash
-Copy code
 python advanced_job_matching.py
 Expected Output:
 
