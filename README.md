@@ -74,3 +74,5 @@ The following GitHub repository goes over 2 specific Tasks:
 1. DataScientist.csv: Data Science Industry jobs dataset in table format
 
 
+**Outputs:**
+Task1 output scores, midpoint generated perfect resume data and Task2 results plots uploaded in code folder
