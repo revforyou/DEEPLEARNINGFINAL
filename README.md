@@ -1,9 +1,9 @@
-*Title: CV Job Matching using Doc2Vec*
+**Title: CV Job Matching using Doc2Vec**
 
-Description:
+**Description:**
 This project implements a job-matching system using the Doc2Vec algorithm to match resumes with job descriptions based on semantic content. It provides an Accuracy Score for the resume to show how similar the resume is to the given Job Description. 
 
-Environment Setup:
+**Environment Setup:**
 
 Python Version: Python 3.8 or above
 Required Libraries:
@@ -68,11 +68,11 @@ The following GitHub repository goes over 2 specific Tasks:
 2. Train a Deep learning model using Doc2Vec, and for any given input of one Job description, produce the best 5 resumes in the dataset for that given job description.
 
 
-Resume dataset resources:
+**Resume dataset resources:**
 1. cv_dataset: Full Tech industry resume documents, with current job titles from https://www.kaggle.com/datasets/palaksood97/resume-dataset/data
 2. UpdatedResumeDataSet.csv: tech industry resume data in the table, with matching category (e.g. data science, testing) from https://huggingface.co/datasets/Sachinkelenjaguri/Resume_dataset
 
-Job Description Dataset Resources: 
-1. DataScientist.csv: tech industry jobs dataset in table
+**Job Description Dataset Resources:**
+1. DataScientist.csv: Data Science Industry jobs dataset in table format
 
 
